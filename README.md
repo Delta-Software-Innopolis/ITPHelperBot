@@ -1,6 +1,5 @@
 # ITP Helper Bot: Tester for Assignments
-## This project is discontinued and will no longer receive updates.
-## The successor project is located [here](https://github.com/Delta-Software-Innopolis/InnoTester)
+## This project is discontinued and will no longer receive updates. The successor project is located [here](https://github.com/Delta-Software-Innopolis/InnoTester)
 
 ![Logo](logo.jpg)
 
@@ -10,7 +9,7 @@ The ITP Helper Bot is a Telegram bot that is able to test solutions for assignme
 
 
 ### Setup:
-Required system: Any GNU/Linux distribution or MacOS. For simplicity, the following instructions suppose that you use Ubuntu 20.04. For other distros ans MacOS steps are simillar.
+Required system: Any GNU/Linux distribution or MacOS. Windows is not supported. For simplicity, the following instructions suppose that you use Ubuntu 20.04. For other distros ans MacOS steps are simillar.
 
 Required Python version: 3.12 or above
 
