@@ -1,4 +1,6 @@
 # ITP Helper Bot: Tester for Assignments
+## This project is discontinued and will no longer receive updates.
+## The successor project is located [here](https://github.com/Delta-Software-Innopolis/InnoTester)
 
 ![Logo](logo.jpg)
 
